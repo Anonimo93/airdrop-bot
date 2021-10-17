@@ -1,8 +1,8 @@
 {
-    "token" : "YOUR BOT TOKEN",
-    "admins" : ["ADMIN USERNAMES (ARRAY)"],
-    "intro" : "YOUR INTRO HERE",
-    "botname" :"YOUR BOT NAME HERE",
-    "signup" : SIGNUP BONUS (NUMBER),
-    "ref" : REFERRAL BONUS (NUMBER)
+    "token" : "2004571058:AAHS7hUGVdAbIcl95W5gBAQJJzGo78QXAGA",
+    "admins" : ["@Zandy93"],
+    "intro" : "Hello and welcome to my refer and earn bot",
+    "botname" :"BTT REFER AND EARN",
+    "signup" : 0,
+    "ref" : 0.5
 }
